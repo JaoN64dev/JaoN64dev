@@ -13,8 +13,8 @@ Node.js, C++, javascript!
 E lembre Status são importantes, tanto na vida e na internet! 
 ### 📊 MEUS STATUS
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=JoaoN64dev)
-![](https://github-readme-streak-stats.herokuapp.com/?user=JoaoN64dev)
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=JaoN64dev)
+![](https://github-readme-streak-stats.herokuapp.com/?user=JaoN64dev)
 ![](lineBar.png)
 
 # Idiomas
