@@ -13,9 +13,8 @@ Node.js, C++, javascript!
 E lembre Status são importantes, tanto na vida e na internet! 
 ### 📊 MEUS STATUS
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=KyriaDev)
-![](https://github-readme-streak-stats.herokuapp.com/?user=KyriaDev)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KyriaDev&layout=compact)](https://github.com/KyriaDev/github-readme-stats)
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=JoaoN64dev)
+![](https://github-readme-streak-stats.herokuapp.com/?user=JoaoN64dev)
 ![](lineBar.png)
 
 # Idiomas
