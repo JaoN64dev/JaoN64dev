@@ -8,7 +8,7 @@ Mas eu tambem sou moderno 🕶️ ( isso foi meio vergonhoso de escrever.)
 
 Não leve isso como eu sou professional, eu estou aprendendo!
 
-Node.js, C++, javascript!
+Node.js, C/C++, javascript!
 
 # Projeto atual:
 Estou fazendo um pequeno website que ensina os basicos da programção
