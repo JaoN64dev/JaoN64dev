@@ -14,8 +14,8 @@ Node.js, C/C++, javascript!
 Estou fazendo um pequeno website que ensina os basicos da programção
 
 ### 📊 MEUS STATUS
-
 E lembre Status são importantes, tanto na vida e na internet! 
+
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=JaoN64dev)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JaoN64dev)
 ![](lineBar.png)
