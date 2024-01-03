@@ -24,10 +24,8 @@ E lembre Status são importantes, tanto na vida e na internet!
 # Idiomas
 **Okay... yeah english and** Portugues por que eu sou brasileiro :D
 
-------------------------------- Postagem do 02/01/2024
-Essa frase veio do twitter:
-Metade dos meu projetos podem ocasionar em... *consequências nao vistas*.
-
+------------------------------- Postagem do 03/01/2024
+De alguma maneira eu coloquei dois wls no meu computador, agora quando eu abro um, ele abre outro, mas com ubuntu kk
 
 
 Você que leu tudo ai --> 🤓 ( quer dizer que alguem leu!!!).
