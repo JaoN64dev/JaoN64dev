@@ -11,8 +11,8 @@ Não leve isso como eu sou professional, eu estou aprendendo!
 Node.js, C++, javascript!
 
 ## Projeto atual:
-
-
+Estou fazendo um pequeno website que ensina os basicos da programção
+---------------------------------
 E lembre Status são importantes, tanto na vida e na internet! 
 ### 📊 MEUS STATUS
 
@@ -23,9 +23,11 @@ E lembre Status são importantes, tanto na vida e na internet!
 # Idiomas
 **Okay... yeah english and** Portugues por que eu sou brasileiro :D
 
+------------------------------- Postagem do 02/01/2024
 Essa frase veio do twitter:
 Metade dos meu projetos podem ocasionar em... *consequências nao vistas*.
 
 
 
-você que leu tudo ai --> 🤓
+Você que leu tudo ai --> 🤓 ( quer dizer que alguem leu!!!)
+/
