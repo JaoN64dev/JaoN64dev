@@ -10,13 +10,12 @@ Não leve isso como eu sou professional, eu estou aprendendo!
 
 Node.js, C++, javascript!
 
-## Projeto atual:
+# Projeto atual:
+Estou fazendo um pequeno website que ensina os basicos da programção
 
-#####Estou fazendo um pequeno website que ensina os basicos da programção
----------------------------------
-E lembre Status são importantes, tanto na vida e na internet! 
 ### 📊 MEUS STATUS
 
+E lembre Status são importantes, tanto na vida e na internet! 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=JaoN64dev)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JaoN64dev)
 ![](lineBar.png)
