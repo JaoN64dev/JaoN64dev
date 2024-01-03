@@ -12,6 +12,7 @@ Node.js, C/C++, javascript!
 
 # Projeto atual:
 Estou fazendo um pequeno website que ensina os basicos da programção
+E trabalhando A OS POUQUINHOS... um port de half life para n64, pelo menos so o inicio.
 
 ### 📊 MEUS STATUS
 E lembre Status são importantes, tanto na vida e na internet! 
@@ -29,5 +30,4 @@ Metade dos meu projetos podem ocasionar em... *consequências nao vistas*.
 
 
 
-Você que leu tudo ai --> 🤓 ( quer dizer que alguem leu!!!)
-/
+Você que leu tudo ai --> 🤓 ( quer dizer que alguem leu!!!).
