@@ -24,8 +24,9 @@ E lembre Status são importantes, tanto na vida e na internet!
 # Idiomas
 **Okay... yeah english and** Portugues por que eu sou brasileiro :D
 
-------------------------------- Postagem do 03/01/2024
-De alguma maneira eu coloquei dois wls no meu computador, agora quando eu abro um, ele abre outro, mas com ubuntu kk
+------------------------------- Postagem do 14/04/2024
+Consegui fazer um npc do Half life! Real o cientista!!!! Mas so que ele ta quebrado  no meio e quando vc toca ele crasha o jogo....
+Irei publicar o source code em breve
 
 
 Você que leu tudo ai --> 🤓 ( quer dizer que alguem leu!!!).
